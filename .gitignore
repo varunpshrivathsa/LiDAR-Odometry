@@ -1,0 +1,8 @@
+lidarodom/
+env/
+venv/
+__pycache__/
+*.pyc
+results/
+.vscode/
+.idea/
